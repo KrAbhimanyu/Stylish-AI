@@ -1,0 +1,6 @@
+{
+  "name": "Outfit Stylist AI",
+  "description": "AI-powered outfit stylist agent suggesting outfits based on weather, calendar events, and personal style preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
